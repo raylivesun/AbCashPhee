@@ -1,0 +1,8 @@
+count = 0;
+count = count + 1;
+for (int i = 0; i < count; i++) {
+    printf("count" + i + "count" + i + "count" + i + "count" + i);
+}
+void main(int argc, char *argv[]) {
+    return main(argc, argv);
+}
